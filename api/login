@@ -1,0 +1,27 @@
+{
+    "result": 1,
+    "msg": "成功登录",
+    "data": {
+        "code": "eff3002387dd414c9fe50b8cf4084dd5",
+        "memberTruename": "123qwe",
+        "couponCount": 0,
+        "memberName": "13911052818",
+        "noReceiveOrder": 0,
+        "favStoreCount": 0,
+        "finishOrder": 0,
+        "availablePredeposit": "9999.97",
+        "memberAvatar": "/upload/img/avatar/1478506365089.png",
+        "memberNameCode": "13911052818",
+        "memberId": "1657befcb3304d609f14c6e9bb550c9b",
+        "isBind": 1,
+        "noFilledOrder": 0,
+        "memberSex": 0,
+        "token": "7d7f1bd1-c280-4fd5-800c-b0b7ffc7710d",
+        "favGoodsCount": 0,
+        "isSettingPwd": 1,
+        "noPayOrder": 0,
+        "payPassword": "e10adc3949ba59abbe56e057f20f883e",
+        "memberMobile": "13911052818",
+        "memberConsumePoints": "50"
+    }
+}
